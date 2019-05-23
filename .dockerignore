@@ -1,0 +1,6 @@
+node_modules
+src
+datastore
+config
+importer.tar
+*.log

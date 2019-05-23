@@ -1,0 +1,2 @@
+# ignore node_modules in packages folder
+packages/**/node_modules/
