@@ -12,7 +12,7 @@ module.exports = {
     'airbnb-base'
   ],
   rules: {
-    'max-len': ['error', { code: 120, tabWidth: 2 }],
+    'max-len': ['error', { code: 120, comments: Infinity, tabWidth: 2 }],
     'no-underscore-dangle': ['error', { allow: ['_id'] }],
     'arrow-parens': ['error', 'always'],
   },

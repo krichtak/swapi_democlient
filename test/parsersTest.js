@@ -24,6 +24,7 @@ describe('parsers test', () => {
     it('convert "unknown" to NaN',
       () => {
         const result = parseMGLT('unknown');
+        // eslint-disable-next-line no-unused-expressions
         expect(result).to.be.NaN;
       });
   });
@@ -81,6 +82,7 @@ describe('parsers test', () => {
     it('convert "unknown" to NaN',
       () => {
         const result = parseConsumables('unknown');
+        // eslint-disable-next-line no-unused-expressions
         expect(result).to.be.NaN;
       });
   });
