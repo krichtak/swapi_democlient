@@ -1,6 +1,14 @@
 # swapi demo client
 
-# Background: 
+## How to run
+It is prefered to use yarn however npm should works too.
+1. Go to project folder
+2. Install command: yarn (or npm install) - it installs node modules and dependecies
+3. Run tests command: yarn test (or npm test)
+4. Run application command: yarn start (or npm start)
+
+## Specification
+### Background 
 As part of this code challenge you will be using an API available here: https://swapi.co/  
 We want to know for all SW star ships, to cover a given distance, how many stops for resupply are required.
 The application will take as input a distance in mega lights (MGLT).
@@ -13,7 +21,7 @@ Rebel Transport: 11
 
 NOTE: The console application can be created in any language you wish to use (not limited to .NET languages).
 
-# Requirements
+### Requirements
 1) The completed code should be submitted along with 
 2) Accompanying documentation
 3) Tests and instructions on the usage of the application.
