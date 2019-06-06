@@ -1,5 +1,5 @@
 {
-    "url": "https://swapi.co/",
+    "endpoint": "https://swapi.co/api/starships",
     "log": {
         "level": "debug",
         "errorFile": "error.log",
