@@ -5,7 +5,8 @@
  * @param  {Number} mglt The Maximum number of Megalights this starship can travel in a standard hour. A "Megalight" is a standard unit of distance and has never been defined before within the Star Wars universe. This figure is only really useful for measuring the difference in speed of starships. We can assume it is similar to AU, the distance between our Sun (Sol) and Earth.
  * @return {Number}     The total amount of stops required to make the distance
  */
-const calculateStops = (distance, consumables, mglt) => {
+const stopsCalculation = (distance, consumables, mglt) => {
+
 };
 
-export default calculateStops;
+export default stopsCalculation;
