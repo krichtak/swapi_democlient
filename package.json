@@ -23,7 +23,7 @@
     "ramda": "^0.25.0",
     "terminal": "^0.1.4",
     "winston": "^3.2.1",
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/cli": "7.2.3",
