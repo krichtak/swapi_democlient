@@ -19,12 +19,3 @@ Y-wing: 74
 Millennium Falcon: 9
 Rebel Transport: 11
 
-NOTE: The console application can be created in any language you wish to use (not limited to .NET languages).
-
-### Requirements
-1) The completed code should be submitted along with 
-2) Accompanying documentation
-3) Tests and instructions on the usage of the application.
-If there are any queries on the challenge I can be contacted for clarification if necessary.
-All aspects of the challenge will be considered during the review, coding style, code organization, correct calculations, working application etc.
-This is a very important part of the interview process and they like our candidates to put their best code forward.
